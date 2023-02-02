@@ -1,3 +1,5 @@
+All the commands run from the root folder
+
 ## Insert data
 
 ```shell
